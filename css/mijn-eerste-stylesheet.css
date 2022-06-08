@@ -1,5 +1,7 @@
 body {
   background-color: plum;
+  border: 2px solid gray;
+  border-radius: 16px;
   font-family: sans-serif;
   margin-left: auto;
   margin-right: auto;
