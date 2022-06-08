@@ -27,7 +27,10 @@ nav ul {
   border-radius: 10px;
   font-family: sans-serif;
   font-weight: bold;
-  padding: 1em;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 24px;
+  padding-right: 24px;
 }
 nav ul li {
   display: inline;
