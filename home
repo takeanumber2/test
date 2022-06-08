@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Home</title>
+<link type="text/css" rel="stylesheet" href="css/mijn-eerste-stylesheet.css"/>
+</head>
+<body>
+<h1>dit is Home</h1>
+<p>hier komen links naar ander sites</p>
+<ul>
+<li><a href="test.html">test site</a></li>
+<li><a href="site2.html">2de site</a></li>
+</ul>
+</body>
+</html>
